@@ -1,4 +1,4 @@
-// declare class
+
 class Shape {
     constructor() { this.color = 'blue'; }
     drawShape() { return "A shape is drawn"; }
@@ -6,4 +6,3 @@ class Shape {
 }
 module.exports = Shape;
 
-// export class using module.exports
